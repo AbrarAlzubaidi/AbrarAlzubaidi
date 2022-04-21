@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a dynamic school wesite 
 - 🌱 I’m currently learning PHP
 - 📫 How to reach me: simply by email 😄
-- 💙 Sentence that i love: trying and starting over again (not giving up) because this time you will start from experience not from scratch.
+- 💙 Sentence that i love: try and start over again (not giving up) because this time you will start from experience not from scratch.
 
 ### Contact me on:
 <a href='https://www.linkedin.com/in/abrar-alzobaide'><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="50" height="50"></a>
