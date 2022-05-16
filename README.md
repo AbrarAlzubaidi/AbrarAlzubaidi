@@ -17,8 +17,9 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn-icons.flaticon.com/png/128/3098/premium/3098090.png?token=exp=1650543207~hmac=e4482d11912b6aa1a5fd976494bad566" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://img.icons8.com/fluency/344/python.png" />
 
+<br />
 <br />
 <br />
 
@@ -69,8 +70,10 @@
 
 <img align="left" alt="Heroku" width="26px" src="https://cdn-icons-png.flaticon.com/128/873/873120.png" style="padding-right:10px;" />
 <img align="left" alt="Netlify" width="50px" src="https://th.bing.com/th/id/OIP.FlVn6pp_GJXomBu2KaTYGwHaDt?pid=ImgDet&rs=1" style="padding-right:10px;" />
-<img align="left" alt="Vercel" width="50px" src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector-xs.png" style="padding-right:10px;" />
+<img align="left" alt="Vercel" width="50px" src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" />
 
+<br/>
+<br/>
 <br/>
 
 ---
