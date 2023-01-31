@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a dynamic school wesite 
 - 🌱 I’m currently learning PHP
-- 📫 How to reach me: simply by email 😄
+- 📫 How to reach me: simply by email 😄 abraralzobaide98@gmail
 - 💙 Sentence that i love: try and start over again (not giving up) because this time you will start from experience not from scratch.
 
 ### Contact me on:
