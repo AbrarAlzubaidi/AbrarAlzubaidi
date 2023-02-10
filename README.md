@@ -1,8 +1,8 @@
 ### Hello there 👋😊 I'm Abrar, A Computer Enginner and A Software Developre
 
 
-- 🔭 I’m currently working on a dynamic school wesite 
-- 🌱 I’m currently learning PHP
+- 🔭 I’m currently working on a dynamic school website 
+- 🌱 I’m currently learning PHP, django and wagtail.
 - 📫 How to reach me: simply by email 😄 abraralzobaide98@gmail
 - 💙 Sentence that i love: try and start over again (not giving up) because this time you will start from experience not from scratch.
 
