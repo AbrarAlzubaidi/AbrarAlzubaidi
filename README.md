@@ -1,4 +1,4 @@
-### Hello there 👋😊 I'm Abrar, A Computer Enginner and A Software Developre
+### Hello there 👋😊 I'm Abrar, A Computer Enginner and A Software Developer
 
 
 - 🔭 I’m currently working on a dynamic school website 
